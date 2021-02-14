@@ -1,4 +1,4 @@
-;;; nerd-the-icons-ivy-rich.el --- Better experience with icons for ivy        -*- lexical-binding: t; -*-
+;;; nerd-the-icons-ivy-rich.el --- Better experience with icons for ivy 
 
 ;; Copyright (C) Wizard962 <smatyfei@gmail.com>
 
